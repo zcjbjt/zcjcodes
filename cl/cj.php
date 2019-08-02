@@ -179,6 +179,8 @@ function getLiuyan(){
 }
 
 function getLiu(){
+$ffffff; 	
+	
 $arr = array(
 '¡Ù—‘',
 '÷ß≥÷',
